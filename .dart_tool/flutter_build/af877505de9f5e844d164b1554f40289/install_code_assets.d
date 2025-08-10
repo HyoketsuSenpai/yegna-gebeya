@@ -1,0 +1,1 @@
+ C:\\Users\\Dagim\\Desktop\\Yegna\ Gebeya\\yegna-gebeya\\.dart_tool\\flutter_build\\af877505de9f5e844d164b1554f40289\\native_assets.json: 
